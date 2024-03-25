@@ -11,7 +11,7 @@
 * *Last Modification Date*: 25 03 2024
 * *Lab URL*: <https://web.cs.dal.ca/~gjjariwala/csci3172/lab7/ >
 * *GitLab URL*: <https://git.cs.dal.ca/gjjariwala/csci3172/labs/lab7>
-* *GitHub URL*: <https://github.com/Gjariwala009/Simple-app>
+* *GitHub URL*: <https://github.com/Gjariwala009/simple-form-app>
 
 
 
@@ -24,7 +24,7 @@
 
 ## Website URL
 
-* *URL*: <https://main--simple-app-09.netlify.app>
+* *URL*: <https://main--funny-croquembouche-a99468.netlify.app>
 
 ## Getting Started
 
